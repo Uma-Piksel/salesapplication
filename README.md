@@ -1,5 +1,34 @@
 # salesapplication
 
+Its a REST API application.
+
+GET /api/sales/purchaseItems/receipt 
+
+This endpoint accepts purchased items in json data format and generates the receipt in text file format.
+
+Example: input json data
+{
+  "purchaseItems": [
+    {
+      "quantity": "1",
+      "itemName": "book",
+      "itemPrice": 12.49
+    },
+    {
+      "quantity": "1",
+      "itemName": "music cd",
+      "itemPrice": 14.99
+    },
+    {
+      "quantity": "1",
+      "itemName": "chocolate bar",
+      "itemPrice": 0.85
+    }
+  ]
+}
+
+
+
 Problem: Sales Taxes 
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions. 
 When I purchase items, I receive a receipt which lists the name of all the items and their price (including tax), finishing with the total cost of the items, and the total amounts of sales taxes paid. The rounding rules for sales tax are that for a tax rate of n%, a shelf price of p contains (np/100 rounded up to the nearest 0.05) amount of sales tax. 
