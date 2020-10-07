@@ -20,9 +20,6 @@ import static org.mockito.ArgumentMatchers.anySet;
 import static org.mockito.Mockito.when;
 
 
-/**
- * @author piksel
- */
 @RunWith(MockitoJUnitRunner.class)
 public class PurchaseItemSaleTaxesCalculatorTest {
 

@@ -12,7 +12,6 @@ import java.util.Set;
 /**
  * Calculates the sales tax for the purchase item.
  *
- * @author piksel
  */
 @Component
 @RequiredArgsConstructor

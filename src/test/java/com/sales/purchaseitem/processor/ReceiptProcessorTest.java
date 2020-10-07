@@ -16,9 +16,6 @@ import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertThat;
 import static org.mockito.Mockito.when;
 
-/**
- * @author piksel
- */
 @RunWith(MockitoJUnitRunner.class)
 public class ReceiptProcessorTest {
 

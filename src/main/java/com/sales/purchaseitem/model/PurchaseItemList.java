@@ -11,7 +11,6 @@ import java.util.List;
 
 /*
  * Model data objects holds the list of purchased Items.
- * @author piksel
  */
 
 @Data

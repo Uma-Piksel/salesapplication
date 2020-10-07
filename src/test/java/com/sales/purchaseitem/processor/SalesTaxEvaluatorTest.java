@@ -14,9 +14,6 @@ import java.util.Set;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
-/**
- * @author piksel
- */
 @RunWith(MockitoJUnitRunner.class)
 public class SalesTaxEvaluatorTest {
 

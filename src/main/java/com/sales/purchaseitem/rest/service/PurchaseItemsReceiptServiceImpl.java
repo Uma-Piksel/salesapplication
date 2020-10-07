@@ -7,7 +7,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 /**
- * @author piksel
+ * implementation receipt processor.
  */
 @Service
 @RequiredArgsConstructor

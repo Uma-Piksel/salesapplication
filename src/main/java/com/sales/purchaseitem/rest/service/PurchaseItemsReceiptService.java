@@ -4,7 +4,7 @@ import com.sales.purchaseitem.model.PurchaseItemList;
 import com.sales.purchaseitem.model.PurchaseReceipt;
 
 /**
- * @author piksel
+ * service responsible for processing receipt
  */
 public interface PurchaseItemsReceiptService {
 

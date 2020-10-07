@@ -10,7 +10,7 @@ import lombok.ToString;
 import java.io.Serializable;
 
 /**
- * @author piksel
+ * a model to hold receipt items
  */
 @Data
 @AllArgsConstructor

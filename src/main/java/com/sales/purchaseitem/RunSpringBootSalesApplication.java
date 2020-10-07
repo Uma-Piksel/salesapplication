@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author piksel
+ * entry point of the application
  */
 
 @SpringBootApplication(scanBasePackages = {"com.sales.purchaseitem"})

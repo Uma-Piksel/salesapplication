@@ -13,7 +13,6 @@ import java.util.List;
 /**
  *
  * Receipt holds the purchase item receipt.
- * @author piksel
  */
 @Data
 @AllArgsConstructor

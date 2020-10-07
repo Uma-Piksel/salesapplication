@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * Responsible for processing the receipt items.
  *
- * @author piksel
  */
 @Component
 @RequiredArgsConstructor

@@ -13,7 +13,6 @@ import java.io.Serializable;
 /**
  * Model data object holds the purchaseItem details.
  *
- * @author piksel
  */
 @Data
 @Builder

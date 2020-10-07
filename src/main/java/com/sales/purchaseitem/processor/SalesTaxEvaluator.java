@@ -8,7 +8,7 @@ import java.util.Set;
 
 
 /**
- * @author piksel
+ * calculates the tax discount
  */
 
 @Component
