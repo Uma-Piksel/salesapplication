@@ -1,0 +1,20 @@
+{
+  "purchaseItems": [
+    {
+      "quantity": "1",
+      "itemName": "book",
+      "itemPrice": 12.49
+    },
+    {
+      "quantity": "1",
+      "itemName": "music cd",
+      "itemPrice": 14.99
+    },
+    {
+      "quantity": "1",
+      "itemName": "chocolate bar",
+      "itemPrice": 0.85
+    }
+  ]
+}
+

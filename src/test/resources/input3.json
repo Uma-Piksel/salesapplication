@@ -1,0 +1,25 @@
+{
+  "purchaseItems": [
+    {
+      "quantity": "1",
+      "itemName": "imported bottle of perfume",
+      "itemPrice": 27.99
+    },
+    {
+      "quantity": "1",
+      "itemName": "bottle of perfume",
+      "itemPrice": 18.99
+    },
+    {
+      "quantity": "1",
+      "itemName": "packet of headache pills",
+      "itemPrice": 9.75
+    },
+    {
+      "quantity": "1",
+      "itemName": "box of imported chocolates",
+      "itemPrice": 11.25
+    }
+  ]
+}
+

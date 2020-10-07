@@ -1,0 +1,15 @@
+{
+  "purchaseItems": [
+    {
+      "quantity": "1",
+      "itemName": "imported box of chocolates",
+      "itemPrice": 10.00
+    },
+    {
+      "quantity": "1",
+      "itemName": "imported bottle of perfume",
+      "itemPrice": 47.50
+    }
+  ]
+}
+
